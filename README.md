@@ -2,7 +2,7 @@
 
 A dynamic and visual simulation of the classic Rock Paper Scissors game, where objects battle it out in an animated arena! Watch as rocks, papers, and scissors move around and transform their opponents upon collision based on the traditional game rules.
 
-![Game Screenshot](screenshots/gameplay.png)
+![Game Screenshot](Screenshot%202024-12-24%20at%204.55.42%20PM.png)
 
 ## Features ✨
 
@@ -23,7 +23,7 @@ The traditional Rock Paper Scissors rules apply:
 
 When objects collide, the winner transforms the loser into its own type!
 
-## Requirements 🛠��
+## Requirements 🛠
 
 - Python 3.x
 - Pygame
@@ -62,6 +62,9 @@ python sps_game.py
 
 ![Victory Screen](screenshots/victory.png)
 *Victory screen*
+
+![Game Screenshot](Screenshot%202024-12-24%20at%204.55.42%20PM.png)
+*Battle simulation in action*
 
 ## Contributing 🤝
 
