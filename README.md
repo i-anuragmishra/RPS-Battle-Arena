@@ -2,7 +2,7 @@
 
 A dynamic and visual simulation of the classic Rock Paper Scissors game, where objects battle it out in an animated arena! Watch as rocks, papers, and scissors move around and transform their opponents upon collision based on the traditional game rules.
 
-![Game Screenshot](Screenshot%202024-12-24%20at%204.55.42%20PM.png)
+![Game Screenshot](https://github.com/i-anuragmishra/RPS-Battle-Arena/blob/master/Screenshot%202024-12-24%20at%204.55.42%E2%80%AFPM.png)
 
 ## Features ✨
 
