@@ -67,5 +67,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments 🙏
 
-- Icons and graphics sourced from [provide source if applicable]
+- Icons and graphics sourced from the internet(seriously I can't even take images form google images to build a game).
 - Inspired by the classic Rock Paper Scissors game 
