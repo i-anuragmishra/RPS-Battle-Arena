@@ -52,19 +52,6 @@ python sps_game.py
 - Click the **Replay** button when a winner is declared to start a new game
 - Close the window to exit
 
-## Screenshots 📸
-
-![Start Formation](screenshots/start.png)
-*Starting triangle formation*
-
-![Mid Game](screenshots/midgame.png)
-*Battle in progress*
-
-![Victory Screen](screenshots/victory.png)
-*Victory screen*
-
-![Game Screenshot](Screenshot%202024-12-24%20at%204.55.42%20PM.png)
-*Battle simulation in action*
 
 ## Contributing 🤝
 
